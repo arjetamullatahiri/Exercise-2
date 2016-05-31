@@ -1,0 +1,90 @@
+.first {
+	background-color: #005580;
+	padding-top: 25px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+	padding-left: 30px;
+	font-size: 20px;
+}
+
+a.mainmenu {
+	vertical-align: middle;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+
+a.active {
+	background-color: #e52364;
+	padding-top: 30px;
+	padding-bottom: 27px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	color: white;
+	font-size:30px;
+
+}
+
+.jumbotron {
+	background-image: url("https://snap-photos.s3.amazonaws.com/img-thumbs/960w/63348D1909.jpg");
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 0px;
+}
+
+.supporter {
+	padding: 30px 30px 80px;
+}
+
+.container {
+	text-align: center;
+}
+
+.header {
+	font-family: inherit;
+	font-size: 63px;
+	font-weight: 700;
+	color: #e52364;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	margin: 0px 0px 10px;
+}
+
+.paragraph {
+	padding: 0px 15px 0px;
+}
+
+.btn-default {
+	margin: 20px 0px 60px;
+	font-size: 16px;
+	background-color: white;
+	padding-top: 10px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+	padding-left: 70px;
+	border: 1px solid #30627E;
+}
+
+.btn:hover  {
+	color: #333;
+	text-decoration: none;
+	background-color: none;
+}
+
+.last {
+	background-color: #e52364;
+	padding: 30px 30px 30px 30px;
+
+}
+
+
+&copy {
+	color: white;
+	margin-right: 50px;
+}
